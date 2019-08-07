@@ -1,0 +1,9 @@
+08:55:11.913 [main] INFO  n.l.w.s.Application - Starting Application on DESKTOP-MJ31VIF with PID 13436 (F:\development\UAG\syncallsvc\target\classes started by Lenovo in F:\development\UAG\syncallsvc)
+08:55:11.929 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+08:55:17.912 [main] INFO  n.l.w.s.Application - Started Application in 6.39 seconds (JVM running for 8.863)
+09:13:27.444 [main] INFO  n.l.w.s.Application - Starting Application on DESKTOP-MJ31VIF with PID 11304 (F:\development\UAG\syncallsvc\target\classes started by Lenovo in F:\development\UAG\syncallsvc)
+09:13:27.451 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+09:13:47.965 [main] INFO  n.l.w.s.Application - Started Application in 21.829 seconds (JVM running for 25.397)
+17:26:18.860 [main] INFO  n.l.w.s.Application - Starting Application on DESKTOP-MJ31VIF with PID 27680 (F:\development\UAG\syncallsvc\target\classes started by Lenovo in F:\development\UAG\syncallsvc)
+17:26:18.863 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+17:26:26.023 [main] INFO  n.l.w.s.Application - Started Application in 7.968 seconds (JVM running for 11.503)

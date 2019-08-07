@@ -1,0 +1,37 @@
+16:20:07.182 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 23568 (F:\development\UAG\syncallsvc\target\syncallsvc-1.0-SNAPSHOT.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+16:20:07.186 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+16:20:15.228 [main] INFO  n.l.w.s.Application - Started Application in 8.466 seconds (JVM running for 9.337)
+16:28:56.612 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 8288 (F:\development\UAG\syncallsvc\target\syncallsvc-1.0-SNAPSHOT.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+16:28:56.616 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+16:29:03.565 [main] INFO  n.l.w.s.Application - Started Application in 7.38 seconds (JVM running for 8.374)
+16:29:52.231 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 22616 (F:\development\UAG\syncallsvc\target\syncallsvc-1.0-SNAPSHOT.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+16:29:52.238 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+16:29:58.928 [main] INFO  n.l.w.s.Application - Started Application in 7.11 seconds (JVM running for 8.034)
+16:36:53.623 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 21516 (F:\development\UAG\syncallsvc\target\syncallsvc-1.0-SNAPSHOT.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+16:36:53.626 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+16:37:01.699 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 140 (F:\development\UAG\syncallsvc\target\syncallsvc-1.0-SNAPSHOT.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+16:37:01.702 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+17:13:27.606 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 8488 (F:\development\UAG\syncallsvc\target\syncallsvc-1.0-SNAPSHOT.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+17:13:27.608 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+17:13:33.668 [main] INFO  n.l.w.s.Application - Started Application in 6.584 seconds (JVM running for 7.376)
+17:19:38.578 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 2736 (F:\development\UAG\syncallsvc\target\spring-application-webapp-boot.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+17:19:38.582 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+17:19:44.371 [main] INFO  n.l.w.s.Application - Started Application in 6.185 seconds (JVM running for 6.945)
+17:22:46.050 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 20484 (F:\development\UAG\syncallsvc\target\spring-application-webapp-boot.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+17:22:46.053 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+17:22:51.886 [main] INFO  n.l.w.s.Application - Started Application in 6.189 seconds (JVM running for 6.98)
+17:25:08.577 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 8872 (F:\development\UAG\syncallsvc\target\spring-application-webapp-boot.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+17:25:08.580 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+17:25:14.395 [main] INFO  n.l.w.s.Application - Started Application in 6.181 seconds (JVM running for 6.98)
+17:38:09.874 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 516 (F:\development\UAG\syncallsvc\target\spring-application-webapp-boot.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+17:38:09.877 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+17:38:15.823 [main] INFO  n.l.w.s.Application - Started Application in 6.329 seconds (JVM running for 7.141)
+18:02:25.646 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 11520 (F:\development\UAG\syncallsvc\target\spring-application-webapp-boot.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+18:02:25.648 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+18:02:31.648 [main] INFO  n.l.w.s.Application - Started Application in 6.366 seconds (JVM running for 7.132)
+18:07:16.939 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 26204 (F:\development\UAG\syncallsvc\target\spring-application-webapp-boot.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+18:07:16.943 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+18:07:22.843 [main] INFO  n.l.w.s.Application - Started Application in 6.289 seconds (JVM running for 7.11)
+18:22:20.288 [main] INFO  n.l.w.s.Application - Starting Application v1.0-SNAPSHOT on DESKTOP-MJ31VIF with PID 28552 (F:\development\UAG\syncallsvc\target\spring-application-webapp-boot.jar started by Lenovo in F:\development\UAG\syncallsvc\target)
+18:22:20.290 [main] INFO  n.l.w.s.Application - No active profile set, falling back to default profiles: default
+18:22:26.259 [main] INFO  n.l.w.s.Application - Started Application in 6.342 seconds (JVM running for 7.127)

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<configuration>
+  
+    <!-- 日志目录 -->
+    <property name="logdir" value="logs" />  
+  
+    <!-- 控制台 -->
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">  
+        <encoder charset="UTF-8">  
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] [%-5level] %logger - %msg%n</pattern>  
+        </encoder>  
+    </appender>  
+
+	<appender name="netLogcdAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">  
+	    <file>${logdir}/net_logcd.log</file>  
+	    <append>true</append> 
+	    <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">  
+            <fileNamePattern>${logdir}/net_logcd.%d{yyyy-MM-dd}.%i.log</fileNamePattern> 
+            <MaxHistory>3</MaxHistory>
+            <maxFileSize>20MB</maxFileSize> 
+            <totalSizeCap>100MB</totalSizeCap>	        
+	    </rollingPolicy>  
+	    <encoder>  
+	        <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{5} - %msg%n</pattern>  
+	    </encoder>  
+	</appender>
+  
+    <!-- 日志级别 TRACE, DEBUG, INFO, WARN, ERROR, ALL，OFF-->  
+    <root>  
+        <level value="info" />  
+        <appender-ref ref="console" />  
+    </root>  
+ 
+	<logger name="net.logcd.ws" level="info" additivity="false">  
+	    <appender-ref ref="netLogcdAppender" />  
+	</logger>
+  
+</configuration>
